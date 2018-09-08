@@ -6,7 +6,9 @@ class: center, middle
 
 # Our Features
 
-## 
+## Easy to use
+
+## 90 Hours
 
 ---
 
